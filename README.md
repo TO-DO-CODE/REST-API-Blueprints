@@ -7,6 +7,7 @@
 - Java 21
 - Maven 3.9+
 
+
 ## ▶️ Ejecución del proyecto
 ```bash
 mvn clean install
